@@ -29,6 +29,7 @@
                 </div>
             </div>
             <!--.container-->
+            <?php partial('customers') ?>
         </div>
     </div>
 </div>

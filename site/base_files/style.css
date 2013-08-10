@@ -602,6 +602,10 @@ li.sfHover > a > .sf-sub-indicator {
 	text-shadow: 1px 1px #446713;
 }	
 
+#customers {
+	text-align:center;
+	padding:30px 0;
+}
 
 /* Page */
 .page {

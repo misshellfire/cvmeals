@@ -56,6 +56,7 @@
                 <?php content('news') ?>
             </div>
             <!--.container-->
+            <?php partial('customers') ?>
         </div>
     </div>
 </div>
