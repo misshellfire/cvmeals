@@ -1,0 +1,4 @@
+fotos
+sources
+site/media/*
+!site/media/slide*
