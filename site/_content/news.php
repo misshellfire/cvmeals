@@ -9,14 +9,14 @@
                 sobresaliente a las necesidades de la secretaría...
             </div>
             </li>
-            <li class="clearfix ">
+            <!--<li class="clearfix ">
             <h4>ISSSTE - Dirección de Recursos Materiales y Servicios</h4>
             <div class="excerpt">
                 ...han demostrado puntualidad, honradez, eficiencia, seriedad, eficacia, higiene y
 
 profesionalismo en el cumplimiento de sus compromisos...
             </div>
-            </li>
+            </li>-->
             <li class="clearfix ">
             <h4>SRE - Coordinación de Eventos y Alimentos</h4>
             <div class="excerpt">

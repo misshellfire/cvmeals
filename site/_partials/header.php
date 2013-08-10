@@ -76,7 +76,7 @@ jQuery(window).load(function() {
                     <div class="clear">
                     </div>
                     <p class="tagline">
-                        by Carlos Vega
+                        by Chef Carlos Vega
                     </p>
                 </div>
                 

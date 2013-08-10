@@ -544,25 +544,6 @@ li.sfHover > a > .sf-sub-indicator {
 
 
 
-/* Top search */
-#top-search {
-	position:absolute;
-	right:0;
-	top:15px;
-	}
-	#top-search .input-search {
-		width:160px;
-		margin-right:10px;
-		}
-	#top-search #submit {
-		width:50px;
-		cursor:pointer;
-		padding-left:0;
-		padding-right:0;
-		}
-
-
-
 
 
 /* Content
@@ -589,6 +570,12 @@ li.sfHover > a > .sf-sub-indicator {
 #home-content {
 	margin: 0 0 40px 0;
 	padding-bottom: 33px;
+	font-size: 14px;
+	line-height: 20px;
+}	
+
+#home-content h2 {
+	line-height: 50px;
 }	
 	
 .right-area h2 {
