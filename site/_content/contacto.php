@@ -2,16 +2,27 @@
 
 $error = false;
 $success = false;
+$post = array();
+
 if (isset($_POST['mail'])) {
     try {
-        $defaultOptions = array(
-            #'to' => 'carlosvegaa15866@yahoo.com',
-            'to' => 'ernesto@emb.mx',
-            'subject' => 'Contacto página web'
+        $to = 'carlosvegaa15866@yahoo.com';
+        //$to = 'ernesto@emb.mx';
+        
+        $post = array(
+            'to' => $to,
+            'from' => filter_input(INPUT_POST, 'from', FILTER_VALIDATE_EMAIL),
+            'subject' => 'Contacto página web',
+            'message' => filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING)
         );
-        $options = array_merge($_POST, $defaultOptions);
-        $mail = new Mail($options);
-        $success = $mail->send();
+
+        if (!filter_var($post['from'], FILTER_VALIDATE_EMAIL)) {
+            $error = 'Email inválido';
+        } else {
+            $mail = new Mail($post);
+            $success = $mail->send();
+        }
+
     } catch (Exception $e) {
         $error = $e->getMessage();
     }
@@ -48,13 +59,13 @@ fieldset {border:1px solid #ccc;}
                                 <dd>
                                 <label>
                                     Su Email<br/>
-                                    <input type="text" name="from" value="<?php echo @$_POST['from'] ?>" size="57"/>
+                                    <input type="text" name="from" value="<?php echo @$post['from'] ?>" size="57"/>
                                 </label>
                                 </dd>
                                 <dd>
                                 <label>
                                     Su Mensaje<br/>
-                                    <textarea cols="60" rows="10" name="message"><?php echo htmlentities(@$_POST['message']) ?></textarea>
+                                    <textarea cols="60" rows="10" name="message"><?php echo @$post['message'] ?></textarea>
                                 </label>
                                 </dd>
                                 <dd>
