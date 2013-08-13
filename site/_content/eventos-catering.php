@@ -18,8 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nos adaptamos de acuerdo a lo que el cliente 
-                                requiera, siempre conservando nuestro excelente servicio.
+                                 Manejando eventos culturales, deportivos y recreativos nacionales 
+                                 e internacionales, cubriendo las necesidades de cada uno de los espectáculos.
                             </h2>
                         </div>
                     </div>

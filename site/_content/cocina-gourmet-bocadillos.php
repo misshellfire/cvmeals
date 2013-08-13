@@ -18,10 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nuestro servicio excelso de cocina gourmet ofrece a
-                                los clientes más selectivos, platillos que cumplen con las
-                                exigencias que requieren las debidas preparaciones de la más
-                                alta gastronomía. 
+                                Nuestra nueva modalidad manejando la petit food, diseñamos nuestros 
+                                bocadillos, desde lo tradicional hasta lo más extravagante.
                             </h2>
                         </div>
                     </div>

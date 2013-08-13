@@ -18,8 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Con el sublime toque de la cocina tradicional, brindamos 
-                                diversos servicios como taquizas, parrilladas y mariscadas.
+                                Con un toque casero, platillos de región o temporada, desde lo más 
+                                sofisticado hasta lo más tradicional haremos deleitar un gran manjar.
                             </h2>
                         </div>
                     </div>

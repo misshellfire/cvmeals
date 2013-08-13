@@ -18,10 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nuestro servicio excelso de cocina gourmet ofrece a
-                                los clientes más selectivos, platillos que cumplen con las
-                                exigencias que requieren las debidas preparaciones de la más
-                                alta gastronomía. 
+                                Finger food, manejaremos los elementos más inusuales para dar color, 
+                                sabor y textura, presentación y exquisitez de cada uno. 
                             </h2>
                         </div>
                     </div>

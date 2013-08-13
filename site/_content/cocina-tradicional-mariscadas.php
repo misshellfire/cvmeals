@@ -18,8 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Con el sublime toque de la cocina tradicional, brindamos 
-                                diversos servicios como taquizas, parrilladas y mariscadas.
+                                El placer de deleitar los manjares del pacífico y del golfo 
+                                o región en cada uno de nuestros platillos.
                             </h2>
                         </div>
                     </div>

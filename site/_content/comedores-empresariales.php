@@ -18,7 +18,9 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Comedores
+                                Cubriendo las necesidades de empresa a empleado, bajo 
+                                las más estrictas normas de sanización y conservando 
+                                el valor nutrimental de cada uno de los empleados.
                             </h2>
                         </div>
                     </div>

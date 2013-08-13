@@ -18,8 +18,7 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Con el sublime toque de la cocina tradicional, brindamos 
-                                diversos servicios como taquizas, parrilladas y mariscadas.
+                             La común con cortes americanos, argentinos o tradicionales de acuerdo a la región.
                             </h2>
                         </div>
                     </div>

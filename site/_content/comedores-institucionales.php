@@ -18,9 +18,9 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Cubrimos las necesidades de nuestros clientes valorando el 
-                                nivel nutrimental, apegándonos a las más estrictas normas de
-                                sanitización y contoles de calidad.
+                                 Cubriendo las necesidades de empresa a empleado, 
+                                 bajo las más estrictas normas de sanización y conservando 
+                                 el valor nutrimental de cada uno de los empleados.
                             </h2>
                         </div>
                     </div>

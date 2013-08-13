@@ -18,8 +18,9 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nos adaptamos de acuerdo a lo que el cliente 
-                                requiera, siempre conservando nuestro excelente servicio.
+                                 Según las necesidades de cada uno de nuestros clientes, 
+                                 diseñando desde la escenografía, decoración y el 
+                                 desarrollo de platillos de acuerdo al tema cultural o recreativo. 
                             </h2>
                         </div>
                     </div>

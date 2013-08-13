@@ -18,8 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nos adaptamos de acuerdo a lo que el cliente 
-                                requiera, siempre conservando nuestro excelente servicio.
+                                 Manejar parte de la cultura tradicional de México, desde 
+                                 la instalación de los puestecillos y costumbres alimenticias mexicanas.  
                             </h2>
                         </div>
                     </div>

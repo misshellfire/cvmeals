@@ -18,10 +18,8 @@
                     <div class="clearfix">
                         <div id="home-content">
                             <h2>
-                                Nuestro servicio excelso de cocina gourmet ofrece a
-                                los clientes más selectivos, platillos que cumplen con las
-                                exigencias que requieren las debidas preparaciones de la más
-                                alta gastronomía. 
+                               Tomando en cuenta las exigencias de nuestros clientes, nuestro equipo 
+                               participará en el diseño de platillos acorde a la ocasión. 
                             </h2>
                         </div>
                     </div>
